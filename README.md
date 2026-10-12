@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.png" alt="Go Gopher" width="200"/>
 
-# 👋 Привет! Я Skitalex (drizzleEnt)
+# 👋 Привет! Я Skitalex
 
 **Backend Go-разработчик** с фокусом на высоконагруженные системы и блокчейн
 
