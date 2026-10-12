@@ -6,8 +6,8 @@
 
 **Backend Go-разработчик** с фокусом на высоконагруженные системы и блокчейн
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drizzleEnt&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzleEnt&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skitalex&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skitalex&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -35,16 +35,16 @@
 ## 🔥 Избранные проекты (pinned)
 | Проект | Описание | Технологии | Ссылка |
 |--------|----------|------------|--------|
-| **chat-ui/chat-server** | Десктопный приложение чата и сервер к нему | Go, Websocket | [GitHub](https://github.com/drizzleEnt/i-chat) [GitHub](https://github.com/drizzleEnt/i-chat-server)|
-| **auth** | Сервис авторизации на gRPC (форк с доработками) | Go, gRPC, Microservices | [GitHub](https://github.com/drizzleEnt/auth) |
-| **chat-server** | Чат-сервер на gRPC | Go, gRPC, WebSocket | [GitHub](https://github.com/drizzleEnt/chat-server) |
-| **banners** | Сервис баннеров/рекламы | Go, Postgres, Redis | [GitHub](https://github.com/drizzleEnt/banners) |
+| **chat-ui/chat-server** | Десктопный приложение чата и сервер к нему | Go, Websocket | [GitHub](https://github.com/skitalex/i-chat) [GitHub](https://github.com/skitalex/i-chat-server)|
+| **auth** | Сервис авторизации на gRPC (форк с доработками) | Go, gRPC, Microservices | [GitHub](https://github.com/skitalex/auth) |
+| **chat-server** | Чат-сервер на gRPC | Go, gRPC, WebSocket | [GitHub](https://github.com/skitalex/chat-server) |
+| **banners** | Сервис баннеров/рекламы | Go, Postgres, Redis | [GitHub](https://github.com/skitalex/banners) |
 
 ## 📊 Активность
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drizzleEnt&theme=onedark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skitalex&theme=onedark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 👀 Посетители
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=drizzleEnt.drizzleEnt)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=skitalex.skitalex)
 
 ---
 
